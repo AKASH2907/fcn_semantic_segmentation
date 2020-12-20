@@ -21,11 +21,17 @@ Tested on Python 3.6.x and Keras 2.3.0 with TF backend version 1.14.0.
  
  ## Description
  `fcn.py`: Model architecture
+ 
  `train_games.py`: Train on games dataset
+ 
  `train_cityscapes.py`: Train on cityscapes dataset
+ 
  `ft_cityscapes.py`: Finetuning on cityscapes
+ 
  `eval_cityscapes.py`: Evaluate on test dataset of cityscapes
+ 
  `cityscapes.py`: create dataloader for cityscapes dataset
+ 
  `games_data.py`: create dataloader for games dataset
  
  To train on games from scratch
